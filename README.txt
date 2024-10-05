@@ -1,36 +1,40 @@
-Projet de programmation impérative
-But : Faire un Tetris
-Noufoussi Asmae
-Dufaud Noah
+Imperative Programming Project
+Aim : Create a Tetris
+By: Noufoussi Asmae & Dufaud Noah
 
 
-Ouverture du TETRIS :
-  - Ouvrir un terminal à cet emplaçement (c'est à dire dans le dossier 'Tetris').
-  - Entrer la commande 'make'.
-  - Executer ./Tetris, ou simplement Tetris
+How to open TETRIS :
+  - Open a terminal in the Tetris folder.
+  - Enter the command 'make'.
+  - Run ./Tetris, ou simply Tetris
 
 
-Contenu externe utilisé :
+External content used :
 
 Image :
 https://www.wallpaperflare.com/coloured-bars-color-colored-colorful-colour-hd-tetris-game-application-wallpaper-mctgj
 
-Sons :
+Sounds :
 https://www.youtube.com/watch?v=sW8TKZtoND8
 https://www.sound-fishing.net/
 https://www.youtube.com/watch?v=LPviuy_b73M
 
-Musiques :
+Music :
 https://www.youtube.com/watch?v=3a2mxgluRdU
 https://www.youtube.com/watch?v=wDgQdr8ZkTw
 https://www.youtube.com/watch?v=JRQbVNzmCK0
 https://www.youtube.com/watch?v=GvD3CHA48pA
 
-Polices :
+Fonts :
 https://www.dafont.com/fr/chess.font
 https://www.dafont.com/fr/scoreboard.font
 https://www.dafont.com/fr/banda_niera.font
 https://www.dafont.com/fr/megatech.font
 
-Bibliothèque :
+Library :
 http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/index.html
+
+Important:
+The project will not work unless the MLV library is downloaded and set up properly. 
+It can be downloaded from the following website:
+http://www-igm.univ-mlv.fr/~boussica/mlv/api/English/html/download.html
